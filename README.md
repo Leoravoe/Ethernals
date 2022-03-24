@@ -47,7 +47,7 @@ You can download Ganache from <a href="https://trufflesuite.com/ganache/">here</
 ### 2️⃣ Clone the repo
 
 ```sh
-$ git clone 
+$ git clone https://github.com/Leoravoe/Ethernals.git
 ```
 ### 3️⃣ Run the project :arrow_up:
 - do ```npm install -g truffle``` in your terminal
