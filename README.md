@@ -29,10 +29,9 @@
 - All the investor who help to complete the project goal amount for raising will receive Cb token as reward 
 
 ## 📜 Basic Workflow Diagram
-<img src="">
 
-## 🏭 Architecture Diagram
-<img src="">
+![image](https://user-images.githubusercontent.com/74288483/160006511-4926d7bf-fdb1-448d-82fc-f9275b5e1a1f.png)
+
 
 ## 👣 Steps to run the project 
 ### 1️⃣ Install The MetaMask web extension, Node.js and Ganache
